@@ -13,3 +13,11 @@ git push -u origin main
 git remote add origin https://github.com/yeetan/test.git
 git branch -M main
 git push -u origin main
+
+我的第一个提交 
+
+git add a.txt
+git status
+git commit -m "changed a.txt"
+git push -u origin master
+
