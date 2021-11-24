@@ -23,3 +23,7 @@ git push -u origin master
 
 
 -------------------
+
+应该叫github而不是origin 
+
+git remote add github https://github.com/yeetan/test.git
